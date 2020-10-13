@@ -1,0 +1,13 @@
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.exe
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.deps.json
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.runtimeconfig.json
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.runtimeconfig.dev.json
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.dll
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\bin\Debug\netcoreapp3.1\CypherWithNoBrim.pdb
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.csprojAssemblyReference.cache
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.AssemblyInfoInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.AssemblyInfo.cs
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.csproj.CoreCompileInputs.cache
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.dll
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.pdb
+C:\Users\mcelhinny_benjamin\source\repos\CypherWithNoBrim\CypherWithNoBrim\obj\Debug\netcoreapp3.1\CypherWithNoBrim.genruntimeconfig.cache
